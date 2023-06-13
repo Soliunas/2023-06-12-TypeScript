@@ -1,0 +1,17 @@
+{
+  "name": "2023-06-12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ts": "tsc --watch",
+    "dev": "nodemon ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Soliunas",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
