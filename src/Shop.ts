@@ -20,7 +20,7 @@ const inventory: Product[] = [
 ];
 
 function intro(): string {
-  return `Sveiki atvykę į ${shopName}! Mes prekiaujame ${currency} valiuta.`;
+  return `Sveiki atvyke i ${shopName}! Mes prekiaujame ${currency} valiuta.`;
 }
 
 function displayInventory(): void {
